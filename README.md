@@ -1,3 +1,3 @@
 # Cursor_Animation
 
-- Just a small vanilla project
+- Just a small html,css and javascript project
